@@ -61,3 +61,5 @@ The product image successfully displayed!
 The app doesn't work in nextjs ssr due to secrets not being available. Opting for a pure client side solution with Amplify. Was going to go with CRA, but there's overhead in setting up routes and ain't nobody got time for that. Plus once the bugs are worked out, NextJS will be a great solution.
 
 ---
+
+1. configure Amplify to add an api
